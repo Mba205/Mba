@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mba.
-- 👀 I’m interested in internships and opportunities in artificial intelligence. 
+- 👀 I’m interested in internships and opportunities in cybersecurity. 
 - 🌱 I’m currently in my first year studying BSc Software Engineering.
 - 💞️ I’m looking to collaborate on AI programming projects.
 - 📫 Reach me through my email at mbanonna@gmail.com
